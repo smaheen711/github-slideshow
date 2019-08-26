@@ -37,7 +37,7 @@ In this semester, I have tried to complete a windows system/app that would help 
 <h2>Methodology:</h2>
 
 <p align='justify'>
-For the software development process, I used Iterative model as the main SDLC. I had chosen it mainly because I need to continuously add different features and functions. I had to build different versions of same functions with different requirements. Iterative model gives the chance to parallel work on different builds and the results of them can be obtained periodically. The testing and debugging are easy because of its small structure.
+For the software development process, I used Iterative model as the main SDLC. I had chosen it mainly because I need to continuously add different features and functions. I had to build different versions of same functions with different requirements. Iterative model gives the chance to parallel work on different builds and the results of them can be obtained periodically. The testing and debugging are easy because of its small structure. User send voice command over the dedicad Android app and using a dedicated server, the windows software receives it and act according to the command. The windows software has 2 different voices to conduct all the commands. 
 
 </p>
 
@@ -56,9 +56,9 @@ For the software development process, I used Iterative model as the main SDLC. I
 
 ## Tools and Technology:  
     
-    * Python 3  
-    * Framework: Selenium, pywinauto  
-    * GUI: Tkinter  
+    * Language: Python 3, Java  
+    * Framework: Selenium, pywinauto, win32com
+    * GUI: Pyqt5, Android  
     * Packages: Beautiful Soup, OpenCV.   
 
 <h2>Limitations:</h2>
@@ -69,4 +69,4 @@ In this semester, I have tried to complete a windows system/app that would help 
 <h2>Conclusion:</h2>
 
 <p align='justify'>
-In this semester, I have tried to complete a windows system/app that would help me and make my life a little bit easier. Of course, there are other software that could satisfy my needs, but none of the apps are free or need to be cracked. As in our country, we are not used to pay for real software and thus we ended up with cracked version. Most of the time, the cracked software contains numerous virus. Ransomware, keylogger, rat, Trojan are few of them. As I stated before, I have witnessed these attacks and it motivates me to create an not hack-able system that could at least be a wall between the users and hackers. Also, I intend to make this a free app, so people can download and utilize its power and benefits. 
+This software doesn’t have an eye-catching UI or impossible level features. But It can still be very useful for our day to day boring jobs. It has the potential to be a full-blown up AI powered virtual assistant. I believe it can help user to login safely and anonymously. It could also help the introverts who are afraid of giving presentation or speech. With a touch of creativity, it has the potential to give a full-blown attractive presentation. 
