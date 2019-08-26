@@ -4,9 +4,7 @@
 <br/>
 <p align="center">
     <p align='center'><b>Course</b></br> CSE299</p>
-    <br/>
-    <p align='center'><b>Junior Design Project </br> 
-    <br/>
+    <p align='center'><b>Junior Design Project</p> 
     <p align='center'><b>Section: </b>08</p>
     <p align='center'><b>Group: </b>02</p>
     <p align='center'><b>Summer, 19</b></p>
@@ -19,9 +17,8 @@
 <p align='center'><a  href='https://github.com/smaheen711/SU19CSE299S08G02NSU'>https://github.com/smaheen711/SU19CSE299S08G02NSU</a></p>
 
 <br/>
-<p align='center'><b>Date Prepared</b></p><br/>
+<p align='center'><b>Date Prepared</b></p>
 <p align='center'>26-August-2019</p>
-<br/>
 <br/>
 
 
